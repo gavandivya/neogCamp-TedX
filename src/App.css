@@ -41,10 +41,10 @@
 
 
 h1{
-  font-size: 4rem;
+  font-size: 4rem !important;
   color: #b91c1c;
   font-family: Helvetica;
-  font-weight:900;
+  font-weight:900 !important;
 }
 
 h6{
