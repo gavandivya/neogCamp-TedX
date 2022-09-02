@@ -2,7 +2,7 @@
 
 This repository consist code which recommends the top TEDx talk according to the genre. 
 
-There are 4 types of genre
+#### There are 4 types of genre
 1) Motivational 
 2) Relational 
 3) Leadership
